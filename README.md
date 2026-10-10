@@ -1,6 +1,6 @@
 # Dominar CAN Logger
 
-Log the CAN bus of a Bajaj Dominar with an **ESP32 + MCP2515 + SD card**, then turn the log into your own **DBC file** (there is no public one).
+Log the CAN bus of a Bajaj Dominar with an **ESP32 + MCP2515 + SD card**, then turn the log into your own **DBC file** 
 
 The logger only *listens* (MCP2515 listen-only mode). It never transmits or acknowledges on the bike's bus.
 
