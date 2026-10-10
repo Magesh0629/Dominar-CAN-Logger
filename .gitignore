@@ -1,0 +1,7 @@
+# real logs from the bike (large, personal)
+*.csv
+!sample_data/*.csv
+__pycache__/
+*.pyc
+.venv/
+decoded_*.csv

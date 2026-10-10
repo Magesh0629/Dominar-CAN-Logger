@@ -1,0 +1,9 @@
+VERSION ""
+
+NS_ :
+
+BS_:
+
+BU_: ECU DASH
+
+CM_ "Dominar CAN database - fill in BO_ / SG_ blocks as you identify signals. Syntax guide: docs/dbc_format.md";
